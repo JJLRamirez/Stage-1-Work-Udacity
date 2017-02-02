@@ -7,7 +7,7 @@
   <body>
     <p>HTML (Hyper Text Markup Language) is the main protocol of the internet.
     The internet will communicate with servers using HTTP, and it will bring that information to a web browser.<p>
-    <p>Use a bold tag, < b > without the spaces, and it's corresponding close tag to bold text. <b>It should like this</b>. To italicize, use the < em > tag. <em>Here's an example</em>.<div>
+    <p>Use a bold tag, &lt;b&gt;, and it's corresponding close tag to bold text. <b>It should like this</b>. To italicize, use the &lt;em&gt; tag. <em>Here's an example</em>.<div>
     The entire thing is sometimes referred to as an <b>element</b>.</p>
     <p>Computers are very particular, so take extra care with typos and tags.
     If you miss a closing tag, it will be interpreted to affect the entire text after the opening tag.</p>
@@ -16,7 +16,7 @@
     <p>The following format for the anchor tag can be used: "< a href="URL">"text"</ a>" Subtract the spaces between the two a's.</p>
     <p>HTML elements are either inline or block. Inline refers to single lines, while block refers to elements that create a sort of container. This will be explained more later.</p>
     Lastly, HTML documents follow a certain <em>structure</em>, which includes a call out to the document type, a header, title, body, and more.
-<h1>Summary</h1>
+  <h1>Summary</h1>
   <p>HTML is one of the main tools of the internet. The protocol allows the computer to translate data into certain formats. This is accomplished using different tags and CSS elements,
     but great care must be used to watch out for small errors. Pages can link together using hyperlinks. Elements can be either inline or block.</p>
   </body>
